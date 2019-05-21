@@ -1,4 +1,4 @@
-package com.abcd.wsx;
+package com.abcd.wsx.business.service;
 
 import com.abcd.wsx.business.service.XyqInfo;
 import org.junit.Test;
