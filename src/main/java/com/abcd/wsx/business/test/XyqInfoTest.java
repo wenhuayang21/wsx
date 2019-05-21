@@ -1,6 +1,7 @@
 package com.abcd.wsx.business.test;
 
 import com.abcd.wsx.business.service.XyqInfo;
+
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
