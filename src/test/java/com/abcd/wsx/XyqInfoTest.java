@@ -28,4 +28,10 @@ public class XyqInfoTest {
         }
     }
 
+    @Test
+    public void getServerTime(){
+        List<Integer> list = xyqInfo.getAbcd("123");
+        System.out.println(list);
+    }
+
 }
